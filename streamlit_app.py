@@ -1,7 +1,6 @@
 import streamlit
-streamlit.title('Welcome to My Food Channel')
-streamlit.header('Chicken Pokada')
-streamlit.text('1.Chicken')
-streamlit.text('2.Egg')
-streamlit.text('3.Cornflour')
-streamlit.text('4.Ginger-Garlic Paste')
+streamlit.title('My Parent Healthy Diner')
+streamlit.header('Breakfast Menu')
+streamlit.text('Omega 3 & Blueberry Oatmeal')
+streamlit.text('Kale, Spinach & Rocket Smoothie')
+streamlit.text('Hard-Boiled Free-Range Egg')
